@@ -1,3 +1,4 @@
 *.bin filter=lfs diff=lfs merge=lfs -crlf
 *.jar filter=lfs diff=lfs merge=lfs -crlf
 *.tar.gz filter=lfs diff=lfs merge=lfs -crlf
+file/with/a space in it filter=lfs diff=lfs merge=lfs -crlf
